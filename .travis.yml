@@ -27,4 +27,4 @@ script:
 
 provider: heroku
 api_key:  
-  secure: UvUadDigMi1YHpBu2zmKlAXQkVZFKxTh
+  secure: 8f22d62e-549b-40b0-9120-0a1855a04aaa
